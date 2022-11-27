@@ -1,0 +1,3 @@
+## About
+
+This project focuses on predicting flight cancellation, using Spark, through three models, Binomial Logistic Regression, Decision Tree, and Random Forest, then Grid Search is performed for hyperparameter tuning. The Main challenge of predicting canceled flights is the extreme unbalanced dataset, as the number of non-canceled flights heavily outweigh the number of canceled flights. This problem will be addressed using inversely proportional weights for each class.
